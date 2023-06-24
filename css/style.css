@@ -976,7 +976,7 @@ footer p {
   padding-top: 5%;
 }
 .single-team {
-  background-color: rgba(52, 52, 52);
+  background-color: rgba(52, 52, 52,.8);
   margin-bottom: 10px;
 }
 .single-team:hover .social {
